@@ -26,6 +26,7 @@ SECRET_KEY = '2!*j66&#2)b!^tip)jdcd+$dj^x)^vo&-3h9qg@3)5sk*!i28i'
 DEBUG = True
 
 ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','tpapa.pythonanywhere.com']
 
 
 # Application definition
@@ -114,9 +115,9 @@ USE_L10N = True
 
 USE_TZ = True
 
-ALLOWED_HOSTS = [*]
 
-# '127.0.0.1','tpapa.pythonanywhere.com'
+
+# 
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/

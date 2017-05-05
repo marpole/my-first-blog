@@ -26,7 +26,7 @@ SECRET_KEY = '2!*j66&#2)b!^tip)jdcd+$dj^x)^vo&-3h9qg@3)5sk*!i28i'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1','tpapa.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition

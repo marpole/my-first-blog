@@ -117,7 +117,11 @@ USE_TZ = True
 
 
 
+<<<<<<< HEAD
 #
+=======
+# 
+>>>>>>> fbf5de20e057304d1ffe9cddecccc8308cdb61ac
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
